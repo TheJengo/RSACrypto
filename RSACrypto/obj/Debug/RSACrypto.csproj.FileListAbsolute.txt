@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\RSACrypto\RSACrypto\bin\Debug\RSACrypto.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\RSACrypto\RSACrypto\obj\Debug\RSACrypto.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\RSACrypto\RSACrypto\obj\Debug\RSACrypto.Form1.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\RSACrypto\RSACrypto\obj\Debug\RSACrypto.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\RSACrypto\RSACrypto\obj\Debug\RSACrypto.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\RSACrypto\RSACrypto\bin\Debug\RSACrypto.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\RSACrypto\RSACrypto\bin\Debug\RSACrypto.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\RSACrypto\RSACrypto\obj\Debug\RSACrypto.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\RSACrypto\RSACrypto\obj\Debug\RSACrypto.pdb
