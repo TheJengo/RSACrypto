@@ -13,7 +13,7 @@ namespace RSACrypto
         protected int PublicKey { get; set; }
         protected int PrivateKey { get; set; }
         protected int Word { get; set; }
-        public string HataMesaji { get; set; }
+        public string errMessage { get; set; }
         public RSA()
         {
 
@@ -24,7 +24,7 @@ namespace RSACrypto
             this.q = q;
             if(isPrime(this.p) != 1 && isPrime(this.q) != 1)
             {
-                HataMesaji = "Girdiğiniz Sayilar Geçerli Asal sayilar değildir."
+                errMessage = "Invalid numbers.";
             }else{
                 this.PublicKey = PublicKey;
                 this.PrivateKey = (p-1)*(q-1);
